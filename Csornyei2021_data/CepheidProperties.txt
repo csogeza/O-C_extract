@@ -1,4 +1,4 @@
-Name & Period [d] & Period change [d/100 yr] & g & BP-RP & E(B-V) & log10 & Epsilon [d] & Parallax [mas] & Reference 
+Name & Period [d] & Period change [d/100 yr] & Period change error [d/100 yr] & g & BP-RP & E(B-V) & log10 & Epsilon [d] & Parallax [mas] & Reference 
 \object{Eta Aql} & 7.177 & 3.981e-05 & 3.695e-07 & 6.985 & 1.22 & 0.13 &   & 2.612 & \tiny{1,2,11,13,53,58,60,74,75,81,85,A2,A29} \\ 
 \object{U Aql} & 7.024 & 3.541e-05 & 9.137e-06 & 9.443 & 1.02 & 0.36 & -2.811 & 0.96 & \tiny{1,2,3,13,53,58,60,64,75,81,A28} \\ 
 \object{SZ Aql} & 17.141 & 1.897e-04 & 3.891e-05 & 7.986 & 1.755 & 0.588 & -2.125 & 0.421 & \tiny{2,3,12,13,55,58,74,75,81,96,A29} \\ 
