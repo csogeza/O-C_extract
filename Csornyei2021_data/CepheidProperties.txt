@@ -1,4 +1,4 @@
-Name & Period [d] & Period change [d/100 yr] & Period change error [d/100 yr] &g & BP-RP & E(B-V) & log10 & Epsilon [d] & Parallax [mas] & Reference 
+Name & Period [d] & Period change [d/100 yr] & Period change error [d/100 yr] & g & BP-RP & E(B-V) & log10 & Epsilon [d] & Parallax [mas] & Reference 
 U Aql & 7.024 & 2.820e-05 & 5.933e-06 & 9.443 & 1.02 & 0.36 &   & 0.96 & 1,2,3,13,53,58,60,64,75,81,A28 
 SZ Aql & 17.141 & 2.267e-04 & 2.905e-05 & 7.986 & 1.755 & 0.588 &   & 0.421 & 2,3,12,13,55,58,74,75,81,96,A29 
 TT Aql & 13.755 & -1.223e-05 & 4.696e-06 & 6.945 & 1.744 & 0.518 &   & 0.888 & 1,2,3,12,13,24,53,55,58,60,75,81,97,A29 
