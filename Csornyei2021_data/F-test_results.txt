@@ -1,4 +1,4 @@
-Cepheid & F_lp & F_lw & F_pw & Ampl 
+Cepheid & F_lp & F_lw & F_pw & Ampl [days]
 U Aql & 22.61 & 6.12 & 0.72 &   
 SZ Aql & 60.94 & 17.12 & 1.77 &   
 TT Aql & 6.79 & 10.48 & 11.08 &   
