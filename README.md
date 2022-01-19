@@ -2,7 +2,7 @@
 
 Structure of the database:
 
-    Csornyei2021_data -- main data folder with the outputs of the paper stored in various tables:
+#    Csornyei2021_data -- main data folder with the outputs of the paper stored in various tables:
 
     - AllOCFiles -- the O-C diagrams of the individual Cepheids in separate txt files
 
@@ -12,7 +12,8 @@ Structure of the database:
         - Name: GCVS name of the Cepheid
         - Period_O-C [d]: assumed period used for the calculation of the O-C diagram
         - ReferenceEp_O-C: reference epoch assumed for O-C calculation
-        - Period_HJD2459591.5: the pulsation period of the Cepheid on the epoch of HJD 2459591.5 (calculated from the O-C diagram by propagating the period change into the assumed period)
+        - Period_HJD2459591.5: the pulsation period of the Cepheid on the epoch of HJD 2459591.5 
+          (calculated from the O-C diagram by propagating the period change into the assumed period)
         - Period change [d/100yr]: period change rate obtained from the O-C fit (NOT normalised by the period)
         - Period change error [d/100yr]: error of the period change values
         - g: Gaia eDR3 g magnitude
@@ -33,6 +34,11 @@ Structure of the database:
         
     - Phot_reference_list.txt -- list of photometric references and codes used in the CepheidProperties table
     - Piszkes_photometry_all.dat -- photometric time series obtained at Piszkéstető Mountain Station for some of the Cepheids
+
+#   LCFit -- repository for a future automated O-C calculating code
+#   OCcalculator -- Scripts used for this study
+#   OCCalc_mod.c and .exe -- external C script that is called in python code, which is used for calculing the O-C epoch rapidly
+#   OC_program_test.ipnyb -- jupyter notebook with an example on how the code works
 
 # O-C extract
 O-C diagram calculator code for periodic variable stars
