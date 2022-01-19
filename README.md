@@ -36,8 +36,11 @@ Structure of the database:
     - Piszkes_photometry_all.dat -- photometric time series obtained at Piszkéstető Mountain Station for some of the Cepheids
 
    LCFit -- repository for a future automated O-C calculating code
+   
    OCcalculator -- Scripts used for this study
+   
    OCCalc_mod.c and .exe -- external C script that is called in python code, which is used for calculing the O-C epoch rapidly
+   
    OC_program_test.ipnyb -- jupyter notebook with an example on how the code works
 
 # O-C extract
