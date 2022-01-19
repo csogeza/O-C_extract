@@ -11,7 +11,7 @@ Structure of the database:
     - CepheidProperties.txt -- main output table of the work. Columns:
         - Name: GCVS name of the Cepheid
         - Period_O-C [d]: assumed period used for the calculation of the O-C diagram
-        - ReferenceEp_O-C: reference epoch assumed for O-C calculation
+        - ReferenceEp_O-C: reference epoch assumed for O-C calculation in HJD
         - Period_HJD2459591.5: the pulsation period of the Cepheid on the epoch of HJD 2459591.5 
           (calculated from the O-C diagram by propagating the period change into the assumed period)
         - Period change [d/100yr]: period change rate obtained from the O-C fit (NOT normalised by the period)
