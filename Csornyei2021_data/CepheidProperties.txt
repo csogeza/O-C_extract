@@ -1,4 +1,4 @@
-Name & Period_O-C [d] & ReferenceEp_O-C & Period_HJD2459591.5 [days] & Period change [d/100 yr] & Period change error [d/100 yr] & g & BP-RP & E(B-V) & E(B-V) error & log10 Epsilon [d] & Parallax [mas] & Parallax error [mas] & Reference 
+Name & Period_O-C [d] & ReferenceEp_O-C & Period_JD2459591.5 [days] & Period change [d/100 yr] & Period change error [d/100 yr] & g & BP-RP & E(B-V) & E(B-V) error & log10 Epsilon [d] & Parallax [mas] & Parallax error [mas] & Reference 
 U Aql & 7.024137 & 2451442.3285 & 7.024148048 & 1.98061e-04 & 4.16721e-05 & 6.161 & 1.434 & 0.397 & 0.01 &   & 1.73 & 0.088 & 1,2,3,13,53,58,60,64,75,81,A28 
 SZ Aql & 17.140554 & 2443806.3933 & 17.140973896 & 3.88626e-03 & 4.97940e-04 & 8.201 & 1.828 & 0.614 & 0.023 &   & 0.49 & 0.02 & 2,3,12,13,55,58,74,75,81,96,A29 
 TT Aql & 13.754772 & 2447388.2404 & 13.754757945 & -1.68263e-04 & 6.45893e-05 & 6.774 & 1.676 & 0.485 & 0.025 &   & 0.963 & 0.022 & 1,2,3,12,13,24,53,55,58,60,75,81,97,A29 
