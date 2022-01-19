@@ -2,16 +2,14 @@
 
 Structure of the database:
 
-Csornyei2021_data -- main data folder with the outputs of the paper stored in various tables:
+    Csornyei2021_data -- main data folder with the outputs of the paper stored in various tables:
 
     - AllOCFiles -- the O-C diagrams of the individual Cepheids in separate txt files
 
     - AllOCPlots -- individual O-C diagram figures with evolutionary fits
     
     - CepheidProperties.txt -- main output table of the work. Columns:
-    
         - Name: GCVS name of the Cepheid
-        
         - Period_O-C [d]: assumed period used for the calculation of the O-C diagram
         - ReferenceEp_O-C: reference epoch assumed for O-C calculation
         - Period_HJD2459591.5: the pulsation period of the Cepheid on the epoch of HJD 2459591.5 (calculated from the O-C diagram by propagating the period change into the assumed period)
