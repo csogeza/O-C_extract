@@ -1,8 +1,15 @@
-# Data repository for the code and results of the Csörnyei et al. (2022) paper
+## Data repository for the code and results of the Csörnyei et al. (2022) paper
+---------------
+Update (2022.02.15): this data has been uploaded and is available on Vizier as well, through:
+http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=J/MNRAS/511/2125
+
+The data and code stored here will remain available as a backup database.
+
+---------------
 
 Structure of the database:
 
-#    Csornyei2021_data -- main data folder with the outputs of the paper stored in various tables:
+##    Csornyei2021_data -- main data folder with the outputs of the paper stored in various tables:
 
     - AllOCFiles -- the O-C diagrams of the individual Cepheids in separate txt files
 
